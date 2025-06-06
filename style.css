@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(to right, #010030, #160078, #211363);
+}
+
+.nav-item{
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    left: 0%;
+    top: 32px;
+    font-size: 15mm;
+    text-align: center;
+    -webkit-text-stroke: 2px;
+    
+}
+
